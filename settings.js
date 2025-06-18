@@ -13,7 +13,7 @@ global.ytname = "HANSTZ-TECH"
 global.socialm = "GitHub: Mrhanstz"
 global.location = "AFRICA, TANZANIA, DODOMA"
 global.ownernumber = '255756530143'  //creator number
-global.ownername = 'HANSTZ' //owner name
+global.ownername = '𝑨𝑳𝑷𝑯𝑨' //owner name
 global.botname = 'HANS-XMD' //name of the bot
 //sticker details
 global.packname = 'Sticker By'
@@ -24,12 +24,12 @@ global.wm = "HANS BOT"
 //theme link
 global.link = 'https://whatsapp.com/channel/0029VasiOoR3bbUw5aV4qB31'
 //custom prefix
-global.prefa = ['','!','.','#','&']
+global.prefa = ['']
 //false=disable and true=enable
 
 global.autolikestatus = true //For auto react Status Random
-global.autoRecording = false //auto recording
-global.autoTyping = false //auto typing
+global.autoRecording = true //auto recording
+global.autoTyping = true //auto typing
 global.autorecordtype = true //auto typing + recording
 global.autoread = false //auto read messages
 global.autobio = true //auto update bio
